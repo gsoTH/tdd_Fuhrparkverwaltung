@@ -35,7 +35,21 @@ namespace TestprojektTests
 ## Teil 1: Fragen
 Beantworten Sie auf Basis der obigen Beschreibung diese Fragen:
 1.	Wie heißt das zu testende Projekt?
+
+Antwort:
+
 2.	Wie heißt die zu testende Klasse?
+
+Antwort:
+
 3.	Sind die Namenskonventionen eingehalten? Falls nein: Welche Verbesserung schlagen Sie vor?
-4.	Wie viele Tests würden im Testexplorer angezeigt werden?
-5.	Wie würde, ausgehend von diesem Testfall, ein UML-Klassendiagramm für die zu testende Klasse aussehen?
+
+Antwort: 
+
+4.	Wie viele Tests würden im Testexplorer angezeigt werden? (Begründen Sie Ihre Antwort!)
+
+Antwort:
+
+6.	Wie würde, ausgehend von diesem Testfall, ein UML-Klassendiagramm für die zu testende Klasse aussehen? (Gerne dürfen Sie hier eine Tabelle einfügen, z.B. mit dem [MarkdownTableGenerator](https://www.tablesgenerator.com/markdown_tables)
+
+Antwort:
